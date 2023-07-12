@@ -1,0 +1,2 @@
+# MCreatorTranslationLibrary
+ 一个可以导入到网易有道词典的MCreator翻译术语库。
