@@ -3,4 +3,4 @@
 
 下载整个项目后把后缀名改为.zip即可。
 
-也可下载release里的xlsxwen'jian
+也可下载Release里的Xlsx文件
